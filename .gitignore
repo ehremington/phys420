@@ -1,0 +1,10 @@
+.solutions/
+solutions/
+exams/
+books/
+*~
+.ipynb_checkpoints/
+*.log
+*.aux
+*.synctex.gz
+*.autosave.xopp

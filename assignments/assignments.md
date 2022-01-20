@@ -1,3 +1,5 @@
+<div class="cell markdown" tags="[]">
+
 # Problem Set 1
 
 ## Problem 1.1
@@ -51,4 +53,4 @@ Ok, now go back to the ideal gas law and imagine the following scenarios:
 5. By what factors would the temperature change if the volume doubled and the pressure tripled?
 6. By what factors would the volume change if the number of particles halved and the pressure doubled and the temperature *decreased* by a factor of 10? How would you do this in the lab?
 
-
+</div>

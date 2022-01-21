@@ -1,3 +1,17 @@
+<div class="cell markdown">
+
+## Problem Set 3
+
+### Equilibrium Temperature
+
+A 5kg block of aluminum ($c_{Al} = 0.9 kJ/kgK$) at 500C is in thermal contact with a 5kg block of lead ($c_{Pb} = 0.13kJ/kgK$) at 75C. What is their equilibrium temperature?
+
+### Problem 1.41
+
+### Problem 1.47 or 1.48 your choice
+
+</div>
+
 <div class="cell markdown" jp-MarkdownHeadingCollapsed="true" tags="[]">
 
 ## Problem Set 2

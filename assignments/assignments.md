@@ -1,14 +1,32 @@
+<div class="cell markdown" jp-MarkdownHeadingCollapsed="true" tags="[]">
+
+## Problem Set 2
+
+### Problem 1.28 
+
+Estimate how long it should take to bring a cup of water to boiling temperature in a typical 600-watt microwave oven, assuming that all the energy ends up in the water. (Assume any reasonable initial temperature for the water.) Explain why no heat is involved in this process.
+
+### Problem 1.33 a
+
+We did this in class already, but just make sure you have it written down, so we can come back and finish the rest later.
+
+### Problem 1.34 a 
+
+But ONLY the work done on each stage of the cycle. We'll come back and talk about the heat added and the change in th eenergy content later. Express your answers in terms of $P_1, P_2, V_1, V_2.$ 
+
+</div>
+
 <div class="cell markdown" tags="[]">
 
-# Problem Set 1
+## Problem Set 1
 
-## Problem 1.1
+### Problem 1.1
 
-## Problem 1.3
+### Problem 1.3
 
-## Problem 1.12
+### Problem 1.12
 
-## Proportionality
+### Proportionality
 
 Proportionality is a very convenient way to summarize a relationship, but its the kind of thing that everyone assumes someone else taught you. 
 
@@ -52,5 +70,12 @@ Ok, now go back to the ideal gas law and imagine the following scenarios:
 4. By what factor does the pressure change if the volume doubles and the temperature triples?
 5. By what factors would the temperature change if the volume doubled and the pressure tripled?
 6. By what factors would the volume change if the number of particles halved and the pressure doubled and the temperature *decreased* by a factor of 10? How would you do this in the lab?
+
+</div>
+
+<div class="cell code">
+
+``` python
+```
 
 </div>

@@ -1,5 +1,17 @@
 <div class="cell markdown">
 
+## Problem Set 4
+
+### Problem 1.7
+
+### Problem 1.16
+
+### Problem 1.17
+
+</div>
+
+<div class="cell markdown" jp-MarkdownHeadingCollapsed="true" tags="[]">
+
 ## Problem Set 3
 
 ### Equilibrium Temperature

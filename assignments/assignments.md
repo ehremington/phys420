@@ -1,5 +1,29 @@
 <div class="cell markdown">
 
+## Problem Set 5
+
+### Finish problem 1.34
+
+You have done the work part of (a), so use the equipartition theorem to finish the rest. Don't forget it is a diatomic gas.
+
+### Problem 1.36
+
+It might help to do 1.35 first but I'll tell you the gist and then you can just use the results. We derived an expression in class for initial and final volume and temperature ratios for an adiabatic compression: 
+
+$$ \left(\frac{T_f}{T_i}\right)^{f/2}=\frac{V_i}{V_f}$$
+
+This is also the same information as equation 1.38 and 1.39 from the book. Use your proportionalities from the ideal gas law to get $T\propto PV$, and then plug that in and simplify. You will get equation 1.40 from the book, as long as you let $\gamma = (f+2)/f$. Use this form to help with Problem 1.36.
+
+### Problem 1.38
+
+Great conceptual question. Think about which bubble with expand more, the one that experienced isothermal expansion, or the one that experienced adiabatic expansion. They experience the same change in pressure since they start at the same level in the water and both reach the surface.
+
+------------
+
+</div>
+
+<div class="cell markdown">
+
 ## Problem Set 4
 
 ### Problem 1.7
@@ -7,6 +31,10 @@
 ### Problem 1.16
 
 ### Problem 1.17
+
+Additional Hint: you can use pressure in atm and volume in cm$^3$ if you use the gas constant $ R=83.1$ which has units of $\frac{atm \cdot cm^3}{mol K}$.
+
+----------
 
 </div>
 
@@ -21,6 +49,8 @@ A 5kg block of aluminum ($c_{Al} = 0.9 kJ/kgK$) at 500C is in thermal contact wi
 ### Problem 1.41
 
 ### Problem 1.47 or 1.48 your choice
+
+---------
 
 </div>
 
@@ -39,6 +69,9 @@ We did this in class already, but just make sure you have it written down, so we
 ### Problem 1.34 a 
 
 But ONLY the work done on each stage of the cycle. We'll come back and talk about the heat added and the change in th eenergy content later. Express your answers in terms of $P_1, P_2, V_1, V_2.$ 
+
+
+-----
 
 </div>
 
@@ -96,12 +129,5 @@ Ok, now go back to the ideal gas law and imagine the following scenarios:
 4. By what factor does the pressure change if the volume doubles and the temperature triples?
 5. By what factors would the temperature change if the volume doubled and the pressure tripled?
 6. By what factors would the volume change if the number of particles halved and the pressure doubled and the temperature *decreased* by a factor of 10? How would you do this in the lab?
-
-</div>
-
-<div class="cell code">
-
-``` python
-```
 
 </div>

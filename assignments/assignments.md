@@ -1,5 +1,33 @@
 <div class="cell markdown">
 
+## Problem Set 6
+
+### Problem 2.1
+
+### Problem 2.5 a and b
+
+### Problem 2.9
+We have done the first part of this in Google Sheets and in Jupyter. You can do the second part in either. Just copy the results of the table and graph into your homework.
+
+### Problem 2.10
+This is also easy to do in Jupyter now that we have the code written.
+
+### Problem 2.12 d
+Do this by graph this function $y=ln(1+x)$ in the vicinity near x = 0 and then use the result from part (c) which is that the derivative of natural log is the inverse function:
+
+$$ \frac{d \ln(x)}{dx} = \frac{1}{x} $$
+
+Think about the slope of the function and what the equation of a line that approximates this would be.
+
+### Problem 2.13 b
+I already used this trick in the notes, but I want you identify it and to write it down.
+
+-----
+
+</div>
+
+<div class="cell markdown">
+
 ## Problem Set 5
 
 ### Finish problem 1.34

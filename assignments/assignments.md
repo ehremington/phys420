@@ -1,5 +1,45 @@
 <div class="cell markdown">
 
+## Problem Set 7
+
+### Problem 2.16
+
+### Problem 2.18
+The "hint" in this problem probably needs another hint. Think about the fact that you can express $N!$ as $N\times (N-1)!$, and that means you can rearrange that formula to write
+$$ (N-1)! = \frac{N!}{N} $$ 
+
+Use a similar technique on $(q+N-1!)$ and then simplify.
+
+Also another hint for later on, don't forget that $N = N^1 = N^{2/2}$. 
+
+### Problem 2.22
+Your hint for this one is in part (d). The question asks, "Out of all the macrostates, what fraction have reasonably large probabilities?" What he is getting at is you have found in part (c) how tall the multiplicity peak is, and in part (b) you have found the area under the multiplicity curve so using the loose approximation of the area as a thin rectangle the width of that rectangle would correspond to the number of macrostates that have a reasonable change of occuring. The "fraction" that have a reasonable chance of occuring is just this number divided by the total number of macrostates. This will be a very small number. This small number represents the fraction of all the macrostates that are reasonably likely to occur.
+
+### Problem 2.28
+
+### Problem 2.29
+I have already done this in jupyter, so just make sure you have added it to your personal version of that file and know how it works. 
+
+There is a question at the end of this problem that says, "Also compute the entropy over long time scales, assuming that all microstates are accessible." What this means is that instead of plugging in the multiplicity of the of the most likely macrostate into the entropy formula, you are pluggin in the total multiplicity of all the macrostates. This is just the sum of the multiplicities of the macrostates. 
+
+Another way you can get this number is to think about the system as a *single* solid (of 500 particles) with a 100 packets of enery to share. What is the multiplicity of this single solid. This number is equal to the sum of the total multiplicities of the two solids in contact. Show yourself that this is true.
+
+In jupyter to get this to work on the pandas dataframe that we made a couple of things may be handy. First, make sure your dataframe expresses all of its values as *float numbers* (which just means scientific notation) rather than *integers* which is so long your computer can not display it. To do this run something like this on your table (mine was called `table2`).
+
+    table2 = table2.astype(float)
+
+Next, you can sum up the `multi_total` column using this function:
+
+    table2['multi_total'].sum()
+
+Hope this helps.
+
+-----
+
+</div>
+
+<div class="cell markdown">
+
 ## Problem Set 6
 
 ### Problem 2.1

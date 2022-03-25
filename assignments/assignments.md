@@ -1,5 +1,30 @@
 <div class="cell markdown">
 
+## Problem Set 11
+
+### Problem 3.31
+
+### Problem 3.32
+We have already done this one in class.
+
+----
+
+</div>
+
+<div class="cell markdown">
+
+## Problem Set 10
+
+### Problem 3.24
+
+### Problem 3.25 (but not f)
+
+----
+
+</div>
+
+<div class="cell markdown">
+
 ## Problem Set 9
 
 ### Problem 3.1
